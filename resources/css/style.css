@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one p {
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.two a,
+.seven a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.fourth p,
+.six p {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.five {
+  font-size: 21px;
+  color: gray;
+}
+
+footer p {
+  text-align: end;
+  color: gray;
+}
